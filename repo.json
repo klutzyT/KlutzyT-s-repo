@@ -1,0 +1,30 @@
+{
+    "spec":"1.0",
+    "repotype":"purekfdextended",
+    "name": "Test Repo",
+    "description": "Test Repo Description",
+    "icon": "icons/RepoIcon.png",
+    "featured": [
+        {
+            "name": "Test",
+            "bundleid": "uwu.lrdsnow.test",
+            "banner": "icons/PlaceHolderBanner.png",
+            "fontcolor":"black",
+	    "showname":true
+        }
+    ],
+    "packages": [
+        {
+            "name": "Test",
+            "bundleid": "uwu.lrdsnow.test",
+            "author": "Lrdsnow",
+            "description": "Test",
+            "long_description": "Test",
+            "version": "1.0",
+            "icon": "icons/PlaceHolderIcon.png",
+            "banner":"icons/PlaceHolderBanner.png",
+            "path": "pkgs/uwu.lrdsnow.test.purekfd",
+            "screenshots":["icons/PlaceHolderScreenshot.png"]
+        }
+    ]
+}
